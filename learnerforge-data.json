@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Basic Electrical Engineering Notes",
+    "subject": "BEEE",
+    "semester": "1",
+    "link": "https://example.com/notes.pdf"
+  },
+  {
+    "title": "Digital Electronics Notes",
+    "subject": "DE",
+    "semester": "2",
+    "link": "https://example.com/de.pdf"
+  }
+]
