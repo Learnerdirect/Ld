@@ -1,56 +1,48 @@
-[
-  {
-    "type": "University",
-    "title": "JNTU Vizianagaram "
-  },
-  {
-    "type": "University",
-    "title": "JNTU Kakinada "
-  },
-  {
-    "type": "Regulation",
-    "title": "R20"
-  },
-  {
-    "type": "Regulation",
-    "title": "R23"
-  },
-  {
-    "type": "Branch",
-    "title": "Electrical & Electronics Engineering "
-  },
-  {
-    "type": "Material",
-    "university": "JNTU, GV",
-    "regulation": "R20",
-    "branch": "Electrical & Electronics Engineering ",
-    "subject": "DCM & T",
-    "title": "EEE-R20-DCM&T-UNIT-1 ",
-    "link": "https://drive.google.com/file/d/16ddPxNQOxZNZXgt-HAV90ISDMhutpolR/view?usp=drivesdk",
-    "unit": "Unit 1"
-  },
-  {
-    "type": "Subject",
-    "title": "DCM&T"
-  },
-  {
-    "type": "Subject",
-    "title": "Mathematics IV "
-  },
-  {
-    "type": "Subject",
-    "title": "Electronic Devices and Circuits "
-  },
-  {
-    "type": "Subject",
-    "title": "Electrical Circuit Analysis II "
-  },
-  {
-    "type": "Subject",
-    "title": "Professional Ethics and Human Values "
-  },
-  {
-    "type": "Subject",
-    "title": "Electro Magnetic Fields "
-  }
-]
+{
+  "universities": [
+    {
+      "id": "jntu",
+      "name": "JNTU Hyderabad"
+    },
+    {
+      "id": "uni93s4wun",
+      "name": "JNTU Vizianagaram"
+    }
+  ],
+  "regulations": [
+    {
+      "id": "r20",
+      "universityId": "jntu",
+      "name": "R20"
+    },
+    {
+      "id": "regapcvcxf",
+      "universityId": "uni93s4wun",
+      "name": "R20"
+    }
+  ],
+  "branches": [
+    {
+      "id": "cse",
+      "universityId": "jntu",
+      "name": "CSE"
+    }
+  ],
+  "subjects": [
+    {
+      "id": "ds101",
+      "branchId": "cse",
+      "regulationId": "r20",
+      "name": "Data Structures"
+    }
+  ],
+  "materials": [],
+  "previousPapers": [],
+  "syllabuses": [],
+  "academicCalendars": [],
+  "results": [],
+  "updates": [],
+  "ebooks": [],
+  "tools": [],
+  "otherResources": []
+}
