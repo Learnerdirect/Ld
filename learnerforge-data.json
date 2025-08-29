@@ -1,10 +1,30 @@
 [
   {
-    "university": "JNTU Vizianagaram ",
+    "type": "University",
+    "title": "JNTU Vizianagaram "
+  },
+  {
+    "type": "University",
+    "title": "JNTU Kakinada "
+  },
+  {
+    "type": "Regulation",
+    "title": "R20"
+  },
+  {
+    "type": "Regulation",
+    "title": "R23"
+  },
+  {
+    "type": "Branch",
+    "title": "Electrical & Electronics Engineering "
+  },
+  {
+    "type": "Material",
+    "university": "JNTU, GV",
     "regulation": "R20",
     "branch": "Electrical & Electronics Engineering ",
     "subject": "DCM & T",
-    "type": "Material",
     "title": "EEE-R20-DCM&T-UNIT-1 ",
     "link": "https://drive.google.com/file/d/16ddPxNQOxZNZXgt-HAV90ISDMhutpolR/view?usp=drivesdk",
     "unit": "Unit 1"
