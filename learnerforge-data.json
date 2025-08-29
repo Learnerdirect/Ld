@@ -1,11 +1,12 @@
 [
   {
-    "title": "JNTU Vizianagaram ",
-    "type": "University"
-  },
-  {
-    "title": "EEE-R20-DCM&T-UNIT-1 ",
+    "university": "JNTU Vizianagaram ",
+    "regulation": "R20",
+    "branch": "Electrical & Electronics Engineering ",
+    "subject": "DCM & T",
     "type": "Material",
-    "link": "https://drive.google.com/file/d/16ddPxNQOxZNZXgt-HAV90ISDMhutpolR/view?usp=drivesdk"
+    "title": "EEE-R20-DCM&T-UNIT-1 ",
+    "link": "https://drive.google.com/file/d/16ddPxNQOxZNZXgt-HAV90ISDMhutpolR/view?usp=drivesdk",
+    "unit": "Unit 1"
   }
 ]
